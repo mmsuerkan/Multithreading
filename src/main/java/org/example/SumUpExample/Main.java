@@ -1,4 +1,4 @@
-package org.example;
+package org.example.SumUpExample;
 
 class Demonstration {
     public static void main( String args[] ) throws InterruptedException {
